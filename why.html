@@ -1,1 +1,49 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Pourquoi ce départ ? • Camille v2.0</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <canvas id="confetti"></canvas>
 
+  <header class="topbar">
+    <div class="topbarInner">
+      <div class="badge"><span class="dot"></span><div><div style="font-weight:750;font-size:13px;">Pull Request</div><div class="small">Camille v2.0</div></div></div>
+      <div class="progressWrap"><div class="progress"><span></span></div><div class="stepLabel">Step</div></div>
+      <div class="badge"><div class="small">Hint</div><div style="font-weight:750;font-size:13px;">← / →</div></div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="card" style="padding:22px;" data-animate>
+      <h2># Pourquoi ce départ ?</h2>
+      <p>Après observation du système actuel, il apparaît :</p>
+      <ul>
+        <li>Pas assez de soleil</li>
+        <li>Manque de balade à cheval au borde de la mer</li>
+        <li>Pas assez de flament rose</li>
+      </ul>
+
+      <div class="panel" data-animate>
+        <h3>Proposition technique</h3>
+        <div class="codebox">
+          <div><span class="muted">deploy()</span> ⇒ <b>week-end en Camargue</b></div>
+          <div><span class="muted">risk</span> ⇒ “envie de revenir” (acceptable)</div>
+          <div><span class="muted">review</span> ⇒ Camille</div>
+        </div>
+      </div>
+
+      <div class="footerNav">
+        <button class="btn ghost" data-prev>← Précédent</button>
+        <button class="btn" data-next>Suivant →</button>
+      </div>
+    </section>
+  </main>
+
+  <div id="toast" class="toast"></div>
+  <script src="app.js"></script>
+</body>
+</html>
