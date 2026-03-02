@@ -7,7 +7,7 @@
 ---
 
 ## 🖼️ IMAGE PERSONNALISÉE 1
-![Nous](1000010641.png)
+![Nous](1000010639.png)
 
 ---
 
@@ -67,7 +67,7 @@ Options disponibles :
 ---
 
 ## 🖼️ IMAGE PERSONNALISÉE 2
-![Moment cool](1000010641.png)
+![Moment cool](1000010640.png)
 
 ---
 
@@ -103,7 +103,7 @@ Les mathématiques ne mentent pas.
 ---
 
 ## 🖼️ IMAGE PERSONNALISÉE 3
-![Camille](1000010639.png)
+![Camille](1000010641.png)
 
 ---
 
@@ -132,7 +132,7 @@ Non 🙃
 
 ## 🎉 EXCELLENT CHOIX
 
-![Celebration](LIEN_IMAGE_CELEBRATION_ICI)
+![Celebration](1000010642.png)
 
 Mission validée.  
 Prépare tes lunettes de soleil.
