@@ -1,4 +1,4 @@
-# 🚀 Camille v2.0 – Camargue Upgrade
+# Camille v2.0 – Camargue Upgrade
 
 > Release candidate  
 > Maintainer : VéssAm  
@@ -7,7 +7,7 @@
 ---
 
 ## 🖼️ IMAGE PERSONNALISÉE 1
-![Nous](LIEN_DE_TA_PHOTO_ICI)
+![Nous](1000010641.png)
 
 ---
 
@@ -67,7 +67,7 @@ Options disponibles :
 ---
 
 ## 🖼️ IMAGE PERSONNALISÉE 2
-![Moment cool](LIEN_DE_TA_PHOTO_ICI)
+![Moment cool](1000010641.png)
 
 ---
 
@@ -103,7 +103,7 @@ Les mathématiques ne mentent pas.
 ---
 
 ## 🖼️ IMAGE PERSONNALISÉE 3
-![Camille](LIEN_DE_TA_PHOTO_ICI)
+![Camille](1000010639.png)
 
 ---
 
