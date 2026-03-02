@@ -153,7 +153,7 @@ function init(){
       noBtn.classList.remove("shake");
       void noBtn.offsetWidth; // reflow
       noBtn.classList.add("shake");
-      toast("Réponse incorrecte. Merci de reconsidérer 🙂");
+      toast("Sans facon");
     });
   }
 
